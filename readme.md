@@ -26,8 +26,8 @@ StoreFleet aims to be a formidable competitor by offering instant delivery not o
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/storefleet.git
-    cd storefleet
+    git clone https://github.com/devyani2995/Node-CapstoneProject-StoreFleet.git
+    cd Node-CapstoneProject-StoreFleet
     ```
 
 2. Install the dependencies:
